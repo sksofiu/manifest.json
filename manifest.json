@@ -2,7 +2,7 @@
   "name": "My PWA Blogger",
   "short_name": "PWA",
   "start_url": "/?m=1",
-  "display": "browser",  // <- prevents full-screen app mode
+  "display": "browser",  
   "background_color": "#ffffff",
   "theme_color": "#0d6efd",
   "icons": [
